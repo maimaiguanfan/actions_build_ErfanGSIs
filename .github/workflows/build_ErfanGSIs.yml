@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22_OTA_044_all_2004151609_0096a960ae414744.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://dl.google.com/developers/android/rvc/images/factory/walleye-rpb1.200504.018-factory-dccf7b6e.zip?hl=zh-cn
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:

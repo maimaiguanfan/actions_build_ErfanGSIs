@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200705.002-fcbada89.zip
-  ROM_NAME: Pixel
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200630093843/PDEM10_11_OTA_0420_all_fOBz5CDbneb9.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:

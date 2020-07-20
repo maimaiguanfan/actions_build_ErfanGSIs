@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/developers/android/rvc/images/factory/walleye-rpb1.200504.018-factory-dccf7b6e.zip?hl=zh-cn
+  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200705.002-fcbada89.zip
   ROM_NAME: Pixel
   TZ: Asia/Shanghai
 

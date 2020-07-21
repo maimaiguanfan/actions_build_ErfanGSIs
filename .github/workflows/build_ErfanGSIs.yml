@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200630093843/PDEM10_11_OTA_0420_all_fOBz5CDbneb9.ozip
+  ROM_URL: http://downloads.oppo.com.s3.amazonaws.com/firmware/CPH1877_Q/CPH1877EX_11_OTA_3330_all_3rOkzYcgL4w1.ozip
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 

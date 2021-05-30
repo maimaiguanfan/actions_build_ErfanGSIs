@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.2.24/miui_LAVENDER_21.2.24_c74efb2d77_10.0.zip
+  ROM_URL: http://bigota.d.miui.com/20.9.4/miui_MIMAX3_20.9.4_21e974cc03_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
